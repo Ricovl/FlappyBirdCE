@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "CE",
+            "includePath": [
+                "${CEDEV}/include",
+                "${workspaceFolder}/src"
+            ],
+            "defines": [],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "${CEDEV}/include",
+                    "${workspaceFolder}/src"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
