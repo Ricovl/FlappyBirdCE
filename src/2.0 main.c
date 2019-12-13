@@ -29,7 +29,7 @@
 
 const gfx_rletsprite_t *bird_sprite[3] = {bird1, bird2, bird0};
 
-uint24_t score, hscore = 0;
+uint24_t score, hscore = 133;
 uint8_t x_ground;
 
 typedef struct {
